@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/26 11:35:24.000.970,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/06/26 11:37:37.000.045,=D:\Delphi\Projetos Delphi 11\Unit2.pas</Transaction>
+    <Transaction>2024/06/26 11:50:16.000.802,D:\Delphi\Projetos Delphi 11\Unit2.pas=D:\Blog Delphi\projetos\CloneCalculator\UClassCalculator.pas</Transaction>
+    <Transaction>2024/06/26 11:51:37.000.867,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\CloneCalculator\untClassCalculator.dfm</Transaction>
+    <Transaction>2024/06/26 11:51:37.000.867,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\CloneCalculator\untClassCalculator.pas</Transaction>
+    <Transaction>2024/06/26 11:51:51.000.821,D:\Delphi\Projetos Delphi 11\Project1.dproj=D:\Blog Delphi\projetos\CloneCalculator\prjCalculator.dproj</Transaction>
+    <Transaction>2024/06/26 11:52:28.000.681,D:\Blog Delphi\projetos\CloneCalculator\untClassCalculator.pas=D:\Blog Delphi\projetos\CloneCalculator\untCalculator.pas</Transaction>
+    <Transaction>2024/06/26 11:52:28.000.681,D:\Blog Delphi\projetos\CloneCalculator\untClassCalculator.dfm=D:\Blog Delphi\projetos\CloneCalculator\untCalculator.dfm</Transaction>
+    <Transaction>2024/06/26 11:52:42.000.577,D:\Blog Delphi\projetos\CloneCalculator\UClassCalculator.pas=D:\Blog Delphi\projetos\CloneCalculator\untClassCalculator.pas</Transaction>
+  </Transactions>
+</BorlandProject>
